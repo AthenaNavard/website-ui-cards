@@ -264,7 +264,7 @@ body {
         padding: 0 16px;
     }
 
-    image-box {
+    .image-box {
         width: 100%;
         min-height: auto;
     }
